@@ -1,5 +1,16 @@
 # British Airways Data Science Job Simulation (Forage)
 
+[![Python 3.12.6](https://img.shields.io/badge/Python-3.12.6-e34fc3?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
+[![Vite](https://img.shields.io/badge/Vite-Frontend-orange?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/) 
+[![javascript](https://img.shields.io/badge/JavaScript-ded416?style=for-the-badge&logo=JavaScript&logoColor=white)]([https://vite.dev/](https://developer.mozilla.org/de/docs/Web/JavaScript)) 
+[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-24bf2c?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) 
+
+<!--![Status](https://img.shields.io/badge/status-in--progress-yellow)-->
+![License](https://img.shields.io/badge/license-MIT-green)
+![scikit-learn](https://img.shields.io/badge/sklearn-ML-orange)
+![OSMnx](https://img.shields.io/badge/OSMnx-network--data-lightgrey)
+[![RoA](https://img.shields.io/badge/RoA%20-Springer-3636cf?style=for-the-badge&logo=springer&logoColor=white)](https://link.springer.com/chapter/10.1007/978-3-031-56826-8_10)
+
 British Airways Data Science Job Simulation (Forage): Built an Excel lookup model estimating lounge eligibility across flight groupings (Task 1), and a Python Random Forest model predicting customer booking behavior with feature importance analysis and stakeholder reporting (Task 2).
 
 ## 📌 Overview
@@ -48,14 +59,16 @@ This repository contains my solutions to Forage's British Airways Data Science J
 
 ---
 
+
 ## 🛠️ Repository Structure
 
 ```
-├── task1-lounge-eligibility/
-│   └── Task1_Lounge_Eligibility_Lookup_Table.xlsx
-├── task2-booking-prediction/
-│   ├── Task2_Booking_Prediction_Model.ipynb
-│   └── Task2_Summary_Slide.pptx
+    ├── Task 1 Modeling lounge eligibility at Heathrow Terminal 3/
+    │   └── British Airways Summer Schedule Dataset - Forage Data Science Task 1.xlsx (Task analysis)
+    |   └── Lounge Eligibility Lookup Template - Task 1.xlsx (Final Submission)
+    └── Task2/
+        ├── 2. Predicting customer buying behaviour.docx
+        └── Getting Started.ipynb
 └── README.md
 ```
 
