@@ -1,15 +1,14 @@
 # British Airways Data Science Job Simulation (Forage)
 
-[![Python 3.12.6](https://img.shields.io/badge/Python-3.12.6-e34fc3?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
-[![Vite](https://img.shields.io/badge/Vite-Frontend-orange?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/) 
-[![javascript](https://img.shields.io/badge/JavaScript-ded416?style=for-the-badge&logo=JavaScript&logoColor=white)]([https://vite.dev/](https://developer.mozilla.org/de/docs/Web/JavaScript)) 
-[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-24bf2c?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) 
-
-<!--![Status](https://img.shields.io/badge/status-in--progress-yellow)-->
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Excel](https://img.shields.io/badge/Excel-Modeling-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![pandas](https://img.shields.io/badge/pandas-Data%20Prep-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/)
+[![PowerPoint](https://img.shields.io/badge/PowerPoint-Reporting-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
+[![Forage](https://img.shields.io/badge/Forage-Job%20Simulation-6236FF?style=for-the-badge&logo=forage&logoColor=white)](https://www.theforage.com/)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![scikit-learn](https://img.shields.io/badge/sklearn-ML-orange)
-![OSMnx](https://img.shields.io/badge/OSMnx-network--data-lightgrey)
-[![RoA](https://img.shields.io/badge/RoA%20-Springer-3636cf?style=for-the-badge&logo=springer&logoColor=white)](https://link.springer.com/chapter/10.1007/978-3-031-56826-8_10)
 
 British Airways Data Science Job Simulation (Forage): Built an Excel lookup model estimating lounge eligibility across flight groupings (Task 1), and a Python Random Forest model predicting customer booking behavior with feature importance analysis and stakeholder reporting (Task 2).
 
