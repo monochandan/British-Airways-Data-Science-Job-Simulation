@@ -32,7 +32,7 @@ This repository contains my solutions to Forage's British Airways Data Science J
 - Built a reusable **Category → Tier 1/2/3 %** lookup table and applied it to a sample of individual flights to estimate lounge demand
 - Documented assumptions, methodology, and limitations in a written justification
 
-**Deliverable:** `Task1_Lounge_Eligibility_Lookup_Table.xlsx`
+**Deliverable:** `Lounge Eligibility Lookup Template - Task 1.xlsx`
 
 **Tools:** Excel (SUMIFS, VLOOKUP/INDEX-MATCH, PivotTables, charts)
 
@@ -51,8 +51,8 @@ This repository contains my solutions to Forage's British Airways Data Science J
 - Summarized results in a single, manager-ready PowerPoint slide
 
 **Deliverables:**
-- `Task2_Booking_Prediction_Model.ipynb`
-- `Task2_Summary_Slide.pptx`
+- `Prediction Customer Booking Completion - Model Summary.pptx`
+
 
 **Tools:** Python (pandas, scikit-learn, matplotlib/seaborn)
 
