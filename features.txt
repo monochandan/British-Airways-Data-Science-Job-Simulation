@@ -1,0 +1,31 @@
+1. 'num_passengers' ----> as it is 
+
+2. 'sales_channel' ----> convert to numeric
+
+3. 'trip_type' --->  convert to numeric
+
+4. 'purchase_lead' ----> (n f / b s) ---> lead_time_bucket
+       
+5. 'length_of_stay' ----> (n f / b s  ) ---> say_bin
+
+6. 'flight_hour' -----> (n f / b s) ---> flight_time_of_day
+
+7. 'flight_day' ----> (n f / b s)  ---> is _weekend_flight
+
+8. 'route', ----> (n f / a s) ---> route_booking_rate and  route_frequency
+       
+6. 'booking_origin' ----> (n f / a s) ---> origin_booking_rate and  booking_origin_frequency
+
+----------------------------    
+10. 'wants_extra_baggage'   |
+11. 'wants_preferred_seat', | -----> (n f / b s) --->  total_extra_request 
+12. 'wants_in_flight_meals' |
+----------------------------
+
+13. 'flight_duration' ---> as it is
+
+
+
+
+
+'booking_complete' (label to predict)
