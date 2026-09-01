@@ -17,7 +17,7 @@ British Airways Data Science Job Simulation (Forage): Built an Excel lookup mode
 This repository contains my solutions to Forage's British Airways Data Science Job Simulation, split into two tasks:
 
 - **Task 1:** Lounge Eligibility Lookup Template - Task 1.xlsx
-- **Task 2:** EDA.ipynb
+- **Task 2:** EDA.ipynb, prepare_data_for_model_training.ipynb 
 
 ---
 
