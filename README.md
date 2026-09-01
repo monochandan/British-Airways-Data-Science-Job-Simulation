@@ -66,8 +66,9 @@ This repository contains my solutions to Forage's British Airways Data Science J
     │   └── British Airways Summer Schedule Dataset - Forage Data Science Task 1.xlsx (Task analysis)
     |   └── Lounge Eligibility Lookup Template - Task 1.xlsx (Final Submission)
     └── Task2/
-        ├── 2. Predicting customer buying behaviour.docx
-        └── Getting Started.ipynb
+        ├── EDA.ipynb
+        └── prepare_data_for_model_training.ipynb
+        └── Prediction Customer Booking Completion - Model Summary.pptx (Final Submission)
 └── README.md
 ```
 
